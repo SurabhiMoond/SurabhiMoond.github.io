@@ -39,7 +39,7 @@ const Projects = () => {
   return (
     <div className="projects-section">
       <div className="py-[80px] min-h-[100vh]">
-        <StyleSwitcher />
+        {/* <StyleSwitcher /> */}
         {isLoading && <Loader />}
         <div className="container">
           <div className="flex flex-wrap">
