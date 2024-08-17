@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SurabhiMoond.github.io/static/css/main.f5a8f7f9.css",
+    "main.js": "/SurabhiMoond.github.io/static/js/main.f18905bb.js",
+    "static/js/453.1407b060.chunk.js": "/SurabhiMoond.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/project-4-thumb.png": "/SurabhiMoond.github.io/static/media/project-4-thumb.488a56d7fa15207ed654.png",
+    "static/media/image.png": "/SurabhiMoond.github.io/static/media/image.0f2ca553399517d46460.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/SurabhiMoond.github.io/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/project-1-thumb.png": "/SurabhiMoond.github.io/static/media/project-1-thumb.cc911b35e1f02e41121d.png",
+    "static/media/fontawesome-webfont.eot": "/SurabhiMoond.github.io/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/SurabhiMoond.github.io/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/project-3-thumb.png": "/SurabhiMoond.github.io/static/media/project-3-thumb.f0024eedb5a48d827756.png",
+    "static/media/project-2-thumb.png": "/SurabhiMoond.github.io/static/media/project-2-thumb.965cfc244a87791f4553.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/SurabhiMoond.github.io/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/project-5-thumb.png": "/SurabhiMoond.github.io/static/media/project-5-thumb.de4315ff26dedc74b58d.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/SurabhiMoond.github.io/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/SurabhiMoond.github.io/index.html",
+    "main.f5a8f7f9.css.map": "/SurabhiMoond.github.io/static/css/main.f5a8f7f9.css.map",
+    "main.f18905bb.js.map": "/SurabhiMoond.github.io/static/js/main.f18905bb.js.map",
+    "453.1407b060.chunk.js.map": "/SurabhiMoond.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5a8f7f9.css",
+    "static/js/main.f18905bb.js"
+  ]
+}
